@@ -1,0 +1,125 @@
+Coding:-->
+	=> Real development starts from coding phase. During
+	   this phase programmers write programs using low
+	   level design diagrams...
+
+
+	   Stage1:-->    Create new Database and create
+			 tables according to Database 
+			 architecture design diagram..
+
+
+	   Stage2:-->
+			 Prepare core programs at business
+			 layer and write API connections to
+			 database and front end layer.
+
+	   Stage3:-->
+			 Develop user interface and apply
+			 business layer and database connections..
+
+Testing:-->
+		After  completed coding phase development team
+		and testing team perform testing on real software.
+
+		
+		Testing Methods:-->
+
+			1. White box testing  [Developer]
+			2. Black box testing  [Tester]
+			3. Grey box testing   [Developer with testing knowledge]
+
+		
+		White box testing:-->
+			=> White box testing done by development team.
+			   During this test programmer execute programs
+			   to verify internal structure of program.
+			=> To perform White box testing developer
+			    follow below sub tests
+				
+			1. Unit Testing    
+			[Checking every single program]
+				
+			2. Intergration Testing  
+			[Checking integration between related programs]
+
+		 Black box testing:-->
+			=> Black box testing done by separate testing
+				team [Third party testing team]
+			=> During this test tester verify extenal
+				functionality of software by operating
+				real software at end user level..
+			=> To perform black box testing testing team
+			   follow below sub tests
+			
+
+			3. System Testing
+			4. UAT [User acceptance testing]
+
+			=> Black box testing perform at GUI level
+				[Graphical User interface]
+
+
+		   Grey box testing:-->	
+			=> Also known as glass box testing
+			=> Development team with proper testing
+			    training involve here..
+			=> Mostly happedn in smaller projects.
+
+Deployment phase:-->
+
+		=> Operational team or Separate devops team
+		   involve in deployment phase
+
+		=> Here devops team deploy software from
+			development team to testing , testing
+			team to production database and from
+			prodution database to client servers...
+
+Release and Maintanance:-->.
+
+		=> Once client accepted software. organization
+		  plan for release software into live. and
+		  also provide further assistance to client..
+==================================================================>>>
+SDLC models:-->
+
+	Waterfall model
+	Incremental model
+	spiral model
+	prototype model
+	RAD [Rapid development model]
+	V-Model
+	Agile
+
+	Why SDLC models:-->
+
+		=> it aids in Planning,Estimating,Sheduling
+		=> it reduce cost of project
+		=> it makes stakeholders can view project status
+			in every level of development
+		=> it decrease risks with in project..
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
