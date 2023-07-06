@@ -1,0 +1,3 @@
+TestName,Section,PreCondition,Steps,Expectedresult
+Tc003_DepatureTest,Departue,MakeUser user available at FlightSearch pag,Verify Depature City Display All CityName ,CityName displayed in alphabetical Order
+Tc004_DepatureTest,Departue,MakeUser user available at FlightSearch pag,Verify Arrival City Display All CityNames,City Names should display according to Departure City
