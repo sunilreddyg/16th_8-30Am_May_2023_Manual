@@ -20,7 +20,7 @@ Agile Process:-->
 	What is the difference between iteration and sprint:-->
 		
 		=> When software successfully release to the
-			client is called iteration
+			client is called iteration succeessful
 
 		=> Sprint can stop any time and plan for 
 			new sprints incase information is
@@ -55,9 +55,9 @@ Scrum:-->
 			=> Actors [Persons involve in software usage]
 			=> Business Conditions and Special Requirements
 
-
-		To Understand Usecase to Every Team member Product
-		owner convert into UserStories.
+	In BDD and FDD framework ogranization follow usestories to
+	develop software features:-->
+		
 
 		[User stories are usefull to improve communication
 			between business team and technical team]
@@ -102,7 +102,7 @@ Scrum:-->
 
 	What is Epic:-->
 		=> Epic is a large reqruiement and 
-			epic contains set of scenarios.
+			epic contains set of Stories..
 			 
 
 
@@ -110,6 +110,10 @@ Scrum:-->
 
 		=> product owner select few user stories from
 			back up folder 
+
+		[Development team and testing team provide 
+		story points to estimate work to complete]
+
 		=> Scrum master create sprint and assign 
 			user stories to sprint
 
@@ -129,7 +133,7 @@ Scrum:-->
 		=> Scrum Master assign userstories to 
 		   Correspondent team members.
 		=> After userstories assignment, Develpemenet team 
-		   and testing team create sub tasks.
+		   and testing team create sub tasks for each user story.
 
 
 		Develpoer task1:--> Write a program for user story
@@ -143,15 +147,8 @@ Scrum:-->
 		Tester task8:-->  Regression Testing
 		Scrum Master:-->  prepare metrics for sprint..  
 
-		How to track a work ?
-		================================
-		Todo   ||   Progress   ||  Done
-		=================================
-
-		Note:--> After completing each task developer,
-			testengineer and other team memebers move 
-			all taks from Inprogress state to done state.
-
+		Note:--> Developer and tester provide story 
+			 points to each task..
 
 	Story points:-->
 		story points represent the effort 
@@ -172,6 +169,20 @@ Scrum:-->
 				Developement :-->  5   
 				Tester	     :-->  3
 				Operationals :-->  2
+
+	How story points will be calculated:-->
+		In general each story point equals to 8.3 hours.
+
+
+
+		How to track a work ?
+		================================
+		Todo   ||   Progress   ||  Done
+		=================================
+
+		Note:--> After completing each task. developer,
+			testengineer and other team memebers move 
+			all taks from Inprogress state to done state.
 
 			
 
